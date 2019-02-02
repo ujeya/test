@@ -1,3 +1,11 @@
-This is my second commit
-
+<<<<<<< HEAD
 Test file
+=======
+test file
+test file edited to check same time.
+abcd
+efgh
+ighj
+
+
+>>>>>>> ec6b8f615fc7d35e3bf3d2db03ab6687073b1090
